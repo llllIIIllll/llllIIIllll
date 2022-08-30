@@ -7,7 +7,7 @@ Coming to the practical implementation, I love making kotlin in android studio a
 </em></p>
 
 [![Twitter: llllIIIlll](https://img.shields.io/twitter/follow/lllIIIIIIIIl?style=flat-square)](https://twitter.com/lllIIIIIIIIl)
-[![GitHub llllIIIlll](https://img.shields.io/github/followers/llllIIIlll?label=follow%20github&style=flat-square)](https://github.com/llllIIIllll)
+[![GitHub llllIIIllll](https://img.shields.io/github/followers/llllIIIllll?label=follow%20github&style=flat-square)](https://github.com/llllIIIllll)
 
 <br>
 
